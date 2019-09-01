@@ -1,5 +1,12 @@
 # 01-Introduction
 
+
+Hello There! I am not the original creater of this post, but I am the one that wrote this code. The point of the assignment is to write a program that answers the questions and guideline below, without any errors. All of this is explained in greater detail below by the instructor. This is the firs time I've ever written code before. My main goal was to complete the task given without errors, and thankfully I believe that I have accomplished that goal. Although, the code I wrote is definitely not complex. 
+
+
+
+
+
 Hello, class! This is the first assignment for MSCH-C220. The requirements for this assignment are as follows:
 
 Write a Python program that displays answers to the following questions:
